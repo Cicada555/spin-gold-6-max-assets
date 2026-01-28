@@ -1,0 +1,1 @@
+# spin-gold-6-max-assets
