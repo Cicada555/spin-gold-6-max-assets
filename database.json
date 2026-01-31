@@ -19,7 +19,7 @@
     ],
     "correctAction": "Call",
     "explanation_en": "When there's a chip lead that is a lot deeper than the other two positions, we as the two short stackers, will call jam and jam each other more to fight for the 2nd place.",
-    "explanation_th": "เวลามีชิพลีดที่ห่างจากเรามาก ๆ ในฐานะที่เราเป็น Short stack 2 คนสุดท้าย เราจะอยาก Call jam และ Jam ใส่อีกคนมากขึ้นเพื่อแย่งกันเป็นอันดับ 2 ",
+    "explanation_th": "เวลามีชิพลีดที่ห่างจากเรามาก ๆ ในฐานะที่เราเป็น Short stack 2 คนสุดท้าย เราจะอยาก Call jam และ Jam ใส่อีกคนมากขึ้นเพื่อแย่งกันเป็นอันดับ 2",
     "image": "https:
     "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_001_Solve.png"
   },
@@ -50,7 +50,7 @@
   {
     "id": "GTO_003",
     "mode": "GTO",
-    "hand": 55,
+    "hand": "55",
     "position": "SB",
     "stack": "2.3bb",
     "playersLeft": 3,
@@ -74,7 +74,7 @@
   {
     "id": "GTO_004",
     "mode": "GTO",
-    "hand": 55,
+    "hand": "55",
     "position": "SB",
     "stack": "2.3bb",
     "playersLeft": 3,
@@ -148,7 +148,7 @@
   {
     "id": "GTO_006",
     "mode": "GTO",
-    "hand": 55,
+    "hand": "55",
     "position": "BB",
     "stack": "12.9bb",
     "playersLeft": 3,
@@ -293,7 +293,7 @@
     "id": "GTO_012",
     "mode": "GTO",
     "hand": "95o",
-    "position": "SB ",
+    "position": "SB",
     "stack": "3.9bb",
     "playersLeft": 3,
     "villainType": "",
@@ -412,7 +412,7 @@
   {
     "id": "GTO_017",
     "mode": "GTO",
-    "hand": 88,
+    "hand": "88",
     "position": "SB",
     "stack": "18.7bb",
     "playersLeft": 3,
@@ -484,7 +484,7 @@
   {
     "id": "GTO_020",
     "mode": "GTO",
-    "hand": 22,
+    "hand": "22",
     "position": "BB",
     "stack": "2.5bb",
     "playersLeft": 3,
@@ -846,7 +846,7 @@
   {
     "id": "GTO_035",
     "mode": "GTO",
-    "hand": 22,
+    "hand": "22",
     "position": "BB",
     "stack": "4.2bb",
     "playersLeft": 3,
@@ -894,7 +894,7 @@
   {
     "id": "GTO_037",
     "mode": "GTO",
-    "hand": 33,
+    "hand": "33",
     "position": "BB",
     "stack": "4.4bb",
     "playersLeft": 3,
