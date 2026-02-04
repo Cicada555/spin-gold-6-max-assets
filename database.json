@@ -9,11 +9,17 @@
     "villainType": "",
     "question_en": "Hero on BB. Action? (FGS3)",
     "question_th": "Hero อยู่ BB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "When there's a chip lead that is a lot deeper than the other two positions, we as the two short stackers, will call jam and jam each other more to fight for the 2nd place.",
-    "explanation_th": "เวลามีชิพลีดที่ห่างจากเรามาก ๆ ในฐานะที่เราเป็น Short stack 2 คนสุดท้าย เราจะอยาก Call jam และ Jam ใส่อีกคนมากขึ้นเพื่อแย่งกันเป็นอันดับ 2 ",
+    "explanation_th": "เวลามีชิพลีดที่ห่างจากเรามาก ๆ ในฐานะที่เราเป็น Short stack 2 คนสุดท้าย เราจะอยาก Call jam และ Jam ใส่อีกคนมากขึ้นเพื่อแย่งกันเป็นอันดับ 2",
     "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_001.png",
     "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_001_Solve.png"
   },
@@ -27,8 +33,14 @@
     "villainType": "",
     "question_en": "Hero on BB. Action? (FGS3)",
     "question_th": "Hero อยู่ BB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -45,8 +57,14 @@
     "villainType": "",
     "question_en": "Hero on SB. Action? (FGS1)",
     "question_th": "Hero อยู่ SB แอคชั่นคือ? (FGS1)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "With FGS1 that means in the next hand, the other short stack will be on the BB. So, they will have a high chance of colliding with the Chip lead and bust out which makes us want to fold more to secure the 2nd place.",
     "explanation_th": "FGS1 หมายความว่าในอีก 1 แฮนด์ Short Stack อีกคนจะได้จ่าย BB เราที่เป็น Short Stack เหมือนกันจึงอยากหมอบมากขึ้นเพื่อลุ้นเอาที่ 2 จากการที่อีกคนมีโอกาสตกรอบสูงขึ้นในแฮนด์ถัดไป",
@@ -63,8 +81,14 @@
     "villainType": "",
     "question_en": "Hero on SB. Action? (FGS2)",
     "question_th": "Hero อยู่ SB แอคชั่นคือ? (FGS2)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "With FGS2 that means in the next 2 hands we will be the BB. So, we have to jam more to collect more chips to make up for the future blinds that we're going to pay.",
     "explanation_th": "FGS2 หมายความว่าในอีก 2 แฮนด์ เราจะได้จ่าย BB (หมายความว่า Short stack อีกคนรอดจาก BB มาได้แล้ว) เพราะฉะนั้นเราจึงอยาก Jam มากขึ้นเพื่อชดเชยบลายด์ที่จะเสียในอนาคต",
@@ -81,8 +105,16 @@
     "villainType": "",
     "question_en": "Hero on BU. Action? (FGS3)",
     "question_th": "Hero อยู่ BU แอคชั่นคือ? (FGS3)",
-    "options_en": ["2BB", "Jam", "Fold"],
-    "options_th": ["2BB", "Jam", "Fold"],
+    "options_en": [
+      "2BB",
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "2BB",
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "We're the chipleader, but the BB is the shortest stack which still need to call a lot so, we don't have enough Fold Equity to wider our range that much.",
     "explanation_th": "ถึงแม้เราจะเป็นชิพลีดแต่ BB ที่เป็นอันดับสุดท้ายก็ยังอยาก Call เยอะเพื่อเอาตัวรอดอยู่ดี เราจึงไม่ได้มี Fold Equity เยอะมากพอที่จะทำให้ Jam ได้กว้างขนาดนั้น",
@@ -99,8 +131,14 @@
     "villainType": "Short Stack",
     "question_en": "SB Jam 2.9bb. Hero in BB.",
     "question_th": "SB ออลอิน 2.9bb เราอยู่ BB",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["สู้", "หมอบ"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "สู้",
+      "หมอบ"
+    ],
     "correctAction": "Call",
     "explanation_en": "Math: We get huge pot odds.",
     "explanation_th": "Math: Pot Odds ดีมาก เราต้องสู้ตามคณิตศาสตร์",
@@ -117,8 +155,14 @@
     "villainType": "",
     "question_en": "SB Jam 7.6bb. Hero in BB. Action? (FGS1)",
     "question_th": "SB ออลอิน 7.6bb เราอยู่ BB แอคชั่นคือ? (FGS1)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "We still can call as we cover them quite a lot",
     "explanation_th": "เรายังคอลได้อยู่เพราะชิพ Cover พอสมควร แต่ถ้ารู้ว่าอีกฝ่าย Tight มาก เราสามารถหมอบแฮนด์นี้ได้",
@@ -135,8 +179,14 @@
     "villainType": "",
     "question_en": "BU Jam 5.2bb. Hero in BB. Action? (FGS1)",
     "question_th": "BU ออลอิน 5.2bb เราอยู่ BB แอคชั่นคือ? (FGS1)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "We can't call much as BU still jam tight",
     "explanation_th": "ถึงจะเป็นชิพลีดแต่เรายังคอลได้ไม่เยอะมากเพราะ BU ยัง Jam Tight อยู่",
@@ -153,8 +203,14 @@
     "villainType": "",
     "question_en": "SB Chip lead Jam 12.7bb. Hero in BB. Action? (FGS3)",
     "question_th": "SB ชิพลีดออลอิน 12.7bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -171,8 +227,14 @@
     "villainType": "",
     "question_en": "SB jam 3.4bb. Hero in BB. Action? (FGS2)",
     "question_th": "SB ออลอิน 3.4bb เราอยู่ BB แอคชั่นคือ? (FGS2)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -189,8 +251,14 @@
     "villainType": "",
     "question_en": "SB jam 4.1bb. Hero in BB. Action? (FGS2)",
     "question_th": "SB ออลอิน 4.1bb เราอยู่ BB แอคชั่นคือ? (FGS2)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -207,8 +275,14 @@
     "villainType": "",
     "question_en": "BU jam 6.4bb. Hero in BB. Action? (FGS3)",
     "question_th": "BU ออลอิน 6.4bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -219,14 +293,20 @@
     "id": "GTO_012",
     "mode": "GTO",
     "hand": "95o",
-    "position": "SB ",
+    "position": "SB",
     "stack": "3.9bb",
     "playersLeft": 3,
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS2)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS2)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -243,8 +323,14 @@
     "villainType": "",
     "question_en": "SB Chip lead jam 11.4bb. Hero in BB. Action? (FGS1)",
     "question_th": "SB ชิพลีดออลอิน 11.4bb เราอยู่ BB แอคชั่นคือ (FGS1)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -261,8 +347,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -279,8 +371,14 @@
     "villainType": "",
     "question_en": "Hero in BU. Action? (FGS3)",
     "question_th": "เราอยู่ BU แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -297,8 +395,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -315,8 +419,14 @@
     "villainType": "",
     "question_en": "BU jam 6.9bb. Hero in SB. Action? (FGS3)",
     "question_th": "BU ออลอิน เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -333,8 +443,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -351,8 +467,14 @@
     "villainType": "",
     "question_en": "Hero Chip lead in BU. Action? (FGS3)",
     "question_th": "เราเป็นชิพลีดอยู่ BU แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -369,8 +491,14 @@
     "villainType": "",
     "question_en": "Hero in BB shortest stack. Action? (FGS3)",
     "question_th": "เราอยู่ BB ช็อตสุด แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -387,8 +515,14 @@
     "villainType": "",
     "question_en": "Hero in BB shortest stack. Action? (FGS3)",
     "question_th": "เราอยู่ BB ช็อตสุด แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -405,8 +539,14 @@
     "villainType": "",
     "question_en": "Hero Chip lead in BU. Action? (FGS3)",
     "question_th": "เราเป็นชิพลีดอยู่ BU แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "จะเห็นว่าจริง ๆ SB คอลได้แค่ JJ+, AKs แต่คนจริงส่วนใหญ่จะคอลกว้างกว่านั้นก็จะทำให้เราออลอินได้น้อยกว่า 31.4%",
@@ -423,8 +563,14 @@
     "villainType": "",
     "question_en": "Hero in BU shortest stack. Action? (FGS1)",
     "question_th": "เราอยู่ BU ช็อตสุด แอคชั่นคือ? (FGS1)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -441,8 +587,14 @@
     "villainType": "",
     "question_en": "Hero in BU shortest stack. Action? (FGS1)",
     "question_th": "เราอยู่ BU ช็อตสุด แอคชั่นคือ? (FGS1)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -459,8 +611,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS1)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -477,8 +635,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -495,8 +659,14 @@
     "villainType": "",
     "question_en": "BU jam 0.05bb. Hero in SB. Action? (FGS1)",
     "question_th": "BU ออลอิน 0.05bb เราอยู่ SB แอคชั่นคือ? (FGS1)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -513,8 +683,14 @@
     "villainType": "",
     "question_en": "BU jam 2.6bb. SB call 0.9bb. Hero in BB. Action? (FGS3)",
     "question_th": "BU ออลอิน 2.6bb SB คอล 0.9bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -531,8 +707,16 @@
     "villainType": "",
     "question_en": "Hero Chip lead in BU. Action? (FGS3)",
     "question_th": "เราเป็นชิพลีดอยู่ BU แอคชั่นคือ? (FGS3)",
-    "options_en": ["2bb", "Jam", "Fold"],
-    "options_th": ["2bb", "Jam", "Fold"],
+    "options_en": [
+      "2bb",
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "2bb",
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "2bb",
     "explanation_en": "RFI 2bb EV +0.19, but we could also jam for +0.10. We can get away with 2bb steal instead of jamming especially if the SB, and BB didn't rejam enough.",
     "explanation_th": "เปิด 2bb ได้ EV +0.19 เยอะกว่าออลอินไปเลยที่ได้ +0.1 การเปิด 2bb ขโมยคุ้มมากยิ่งถ้า BB กับ SB ไม่ค่อย Rejam ใส่เรา เป็นการลดความเสี่ยงเผื่อเราออลอินไปแล้วอีกฝ่ายมีแฮนด์พอดีได้อีกด้วย",
@@ -549,8 +733,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -567,8 +757,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -585,8 +781,14 @@
     "villainType": "",
     "question_en": "Hero Chip lead in BU. Action? (FGS3)",
     "question_th": "เราเป็นชิพลีดอยู่ BU แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -603,8 +805,14 @@
     "villainType": "",
     "question_en": "Hero Chip lead in SB. Action? (FGS3)",
     "question_th": "เราเป็นชิพลีดอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -621,8 +829,14 @@
     "villainType": "",
     "question_en": "SB jam 3bb. Hero in BB. Action? (FGS3)",
     "question_th": "SB ออลอิน 3bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -638,9 +852,15 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "BU Chip lead jam 6.3bb. Hero in BB. Action? (FGS3)",
-    "question_th": "BU เป็นชิพลีดออลอิน 6.3bb เราอยู่ BB แอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "BU เป็นชิพลีดออลอิน 6.3bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -657,8 +877,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -674,9 +900,15 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "BU Chip lead jam 17.9bb. Hero in BB. Action? (FGS3)",
-    "question_th": "BU เป็นชิพลีดออลอิน 17.9bb เราอยู่ BB แอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "BU เป็นชิพลีดออลอิน 17.9bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -692,9 +924,15 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "BU Chip lead jam 10.8bb. Hero in SB. Action? (FGS3)",
-    "question_th": "BU เป็นชิพลีดออลอิน 10.8bb เราอยู่ SB แอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "BU เป็นชิพลีดออลอิน 10.8bb เราอยู่ SB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -711,8 +949,16 @@
     "villainType": "",
     "question_en": "Hero Chip lead in BU. Action? (FGS3)",
     "question_th": "เราเป็นชิพลีดอยู่ BU แอคชั่นคือ? (FGS3)",
-    "options_en": ["2bb", "Jam", "Fold"],
-    "options_th": ["2bb", "Jam", "Fold"],
+    "options_en": [
+      "2bb",
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "2bb",
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -728,9 +974,15 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "SB jam 4.5bb. Hero in BB. Action? (FGS3)",
-    "question_th": "SB ออลอิน 4.5bb เราอยู่ BB แอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "SB ออลอิน 4.5bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -747,8 +999,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -765,8 +1023,14 @@
     "villainType": "",
     "question_en": "Hero in BU. Action? (FGS3)",
     "question_th": "เราอยู่ BU แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -783,8 +1047,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -800,9 +1070,15 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "BU Chip lead jam 12.1bb. Hero in SB shortest stack. Action? (FGS3)",
-    "question_th": "BU เป็นชิพลีดออลอิน 12.1bb เราอยู่ SB ช็อตสุดแอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "BU เป็นชิพลีดออลอิน 12.1bb เราอยู่ SB ช็อตสุดแอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -818,9 +1094,15 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "BU Chip lead jam 10.1bb. Hero in BB shortest stack. Action? (FGS3)",
-    "question_th": "BU เป็นชิพลีดออลอิน 10.1bb เราอยู่ BB ช็อตสุดแอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "BU เป็นชิพลีดออลอิน 10.1bb เราอยู่ BB ช็อตสุดแอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -836,9 +1118,15 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "SB jam 10.4bb. Hero Chip lead in BB. Action? (FGS3)",
-    "question_th": "SB ออลอิน 10.4bb เราเป็นชิพลีดอยู่ BB แอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "SB ออลอิน 10.4bb เราเป็นชิพลีดอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -855,8 +1143,14 @@
     "villainType": "",
     "question_en": "Hero in SB. Action? (FGS3)",
     "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Fold",
     "explanation_en": "",
     "explanation_th": "",
@@ -873,8 +1167,14 @@
     "villainType": "",
     "question_en": "Hero in BU shortest stack. Action? (FGS3)",
     "question_th": "เราอยู่ BU ช็อตสุด แอคชั่นคือ? (FGS3)",
-    "options_en": ["Jam", "Fold"],
-    "options_th": ["Jam", "Fold"],
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
     "correctAction": "Jam",
     "explanation_en": "",
     "explanation_th": "",
@@ -890,9 +1190,15 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "SB Chip lead jam 16.7bb. Hero in BB. Action? (FGS3)",
-    "question_th": "SB เป็นชิพลีดออลอิน 16.7bb เราอยู่ BB แอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "SB เป็นชิพลีดออลอิน 16.7bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
@@ -908,13 +1214,331 @@
     "playersLeft": 3,
     "villainType": "",
     "question_en": "SB jam 6.3BB. Hero in BB. Action? (FGS3)",
-    "question_th": "SB ออลอิน 6.3bb เราอยู่ BB แอคชั่นคือ (FGS3)",
-    "options_en": ["Call", "Fold"],
-    "options_th": ["Call", "Fold"],
+    "question_th": "SB ออลอิน 6.3bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
     "correctAction": "Call",
     "explanation_en": "",
     "explanation_th": "",
     "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_050.png",
     "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_050_Solve.png"
+  },
+  {
+    "id": "GTO_051",
+    "mode": "GTO",
+    "hand": "J5o",
+    "position": "SB",
+    "stack": "11.6bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "Hero in SB. Action? (FGS3)",
+    "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
+    "correctAction": "Jam",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_051.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_051_Solve.png"
+  },
+  {
+    "id": "GTO_052",
+    "mode": "GTO",
+    "hand": "J9o",
+    "position": "BB",
+    "stack": "9.4bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "SB jam 5.6bb. Hero in BB. Action? (FGS3)",
+    "question_th": "SB ออลอิน 5.6bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
+    "correctAction": "Fold",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_052.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_052_Solve.png"
+  },
+  {
+    "id": "GTO_053",
+    "mode": "GTO",
+    "hand": "86o",
+    "position": "SB",
+    "stack": "5.1bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "Hero in SB. Action? (FGS3)",
+    "question_th": "เราอยู่ SB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
+    "correctAction": "Jam",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_053.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_053_Solve.png"
+  },
+  {
+    "id": "GTO_054",
+    "mode": "GTO",
+    "hand": "A2s",
+    "position": "BB",
+    "stack": "7.9bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "SB jam 7.1bb. Hero in BB. Action? (FGS3)",
+    "question_th": "SB ออลอิน 7.1bb เราอยู่ BB แอคชั่นคือ? (FGS1)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
+    "correctAction": "Call",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_054.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_054_Solve.png"
+  },
+  {
+    "id": "GTO_055",
+    "mode": "GTO",
+    "hand": "T8s",
+    "position": "BB",
+    "stack": "8bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "BU jam 3.3bb. Hero in BB. Action? (FGS3)",
+    "question_th": "BU ออลอิน 3.3bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
+    "correctAction": "Fold",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_055.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_055_Solve.png"
+  },
+  {
+    "id": "GTO_056",
+    "mode": "GTO",
+    "hand": "A8s",
+    "position": "BU",
+    "stack": "2.4bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "Hero in BU. Action? (FGS3)",
+    "question_th": "เราอยู่ BU แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
+    "correctAction": "Jam",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_056.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_056_Solve.png"
+  },
+  {
+    "id": "GTO_057",
+    "mode": "GTO",
+    "hand": "TT",
+    "position": "SB",
+    "stack": "1.6bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "BU Chip lead jam 14.8bb. Hero in SB. Action? (FGS3)",
+    "question_th": "BU เป็นชิพลีดออลอิน 14.8bb เราอยู่ SB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
+    "correctAction": "Call",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_057.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_057_Solve.png"
+  },
+  {
+    "id": "GTO_058",
+    "mode": "GTO",
+    "hand": "87s",
+    "position": "SB",
+    "stack": "4.4bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "Hero in SB shortest stack. Action? (FGS3)",
+    "question_th": "เราอยู่ SB ช็อตสุด แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
+    "correctAction": "Jam",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_058.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_058_Solve.png"
+  },
+  {
+    "id": "GTO_059",
+    "mode": "GTO",
+    "hand": "76o",
+    "position": "SB",
+    "stack": "2.2bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "Hero in SB shortest stack. Action? (FGS3)",
+    "question_th": "เราอยู่ SB ช็อตสุด แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
+    "correctAction": "Fold",
+    "explanation_en": "In theory, BU need to jam anytwo, so if they didn't, we need to jam 73.2%",
+    "explanation_th": "จริง ๆ BU ต้อง Jam Anytwo แต่พอ BU ไม่ทำเราต้องออลอินประมาณ 73.2%",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_059.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_059_Solve.png"
+  },
+  {
+    "id": "GTO_060",
+    "mode": "GTO",
+    "hand": "J8s",
+    "position": "BB",
+    "stack": "10.6bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "SB jam 3.9bb. Hero in BB. Action? (FGS3)",
+    "question_th": "SB ออลอิน 3.9bb เราอยู่ BB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Call",
+      "Fold"
+    ],
+    "options_th": [
+      "Call",
+      "Fold"
+    ],
+    "correctAction": "Call",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_060.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_060_Solve.png"
+  },
+  {
+    "id": "GTO_061",
+    "mode": "GTO",
+    "hand": "A8o",
+    "position": "SB",
+    "stack": "8.7bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "BU jam 4.5bb. Hero in SB. Action? (FGS3)",
+    "question_th": "BU ออลอิน 4.5bb เราอยู่ SB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
+    "correctAction": "Fold",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_061.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_061_Solve.png"
+  },
+  {
+    "id": "GTO_062",
+    "mode": "GTO",
+    "hand": "84o",
+    "position": "SB",
+    "stack": "7.3bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "Hero Chip lead in SB. Action? (FGS3)",
+    "question_th": "เราเป็นชิพลีดอยู่ SB แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
+    "correctAction": "Jam",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_062.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_062_Solve.png"
+  },
+  {
+    "id": "GTO_063",
+    "mode": "GTO",
+    "hand": "65s",
+    "position": "BU",
+    "stack": "11.6bb",
+    "playersLeft": 3,
+    "villainType": "",
+    "question_en": "Hero Chip lead in BU. Action? (FGS3)",
+    "question_th": "เราเป็นชิพลีดอยู่ BU แอคชั่นคือ? (FGS3)",
+    "options_en": [
+      "Jam",
+      "Fold"
+    ],
+    "options_th": [
+      "Jam",
+      "Fold"
+    ],
+    "correctAction": "Jam",
+    "explanation_en": "",
+    "explanation_th": "",
+    "image": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_063.png",
+    "solverImage": "https://raw.githubusercontent.com/Cicada555/spin-gold-6-max-assets/main/GTO_063_Solve.png"
   }
 ]
